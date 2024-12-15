@@ -1,0 +1,53 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-classpath
+'C:/Users/HP/.m2/repository/org/netbeans/external/AbsoluteLayout/RELEASE230/AbsoluteLayout-RELEASE230.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'22'
+-sourcepath
+'G:/Todo 02-2024/SEM II-2024/1 Data Structure II/projects apache/project2/ProyectoGrafos-main/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'G:/Todo 02-2024/SEM II-2024/1 Data Structure II/projects apache/project2/ProyectoGrafos-main/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'GrafosPesados_2024_2 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'GrafosPesados_2024_2 1.0-SNAPSHOT API'
+com.mycompany.grafospesados_2024_2
+Excepciones
+Negocio
+Practica
+prueba
+Utileria
+vistaFormulario
+C:\Users\HP\.m2\repository\org\netbeans\external\AbsoluteLayout\RELEASE230\AbsoluteLayout-RELEASE230.jar = 1734112919108
+G:\Todo 02-2024\SEM II-2024\1 Data Structure II\projects apache\project2\ProyectoGrafos-main\src\main\java = 1734122162568
+G:\Todo 02-2024\SEM II-2024\1 Data Structure II\projects apache\project2\ProyectoGrafos-main\target\reports\apidocs\allclasses-index.html = 1734122793675
+G:\Todo 02-2024\SEM II-2024\1 Data Structure II\projects apache\project2\ProyectoGrafos-main\target\reports\apidocs\allpackages-index.html = 1734122793681
+G:\Todo 02-2024\SEM II-2024\1 Data Structure II\projects apache\project2\ProyectoGrafos-main\target\reports\apidocs\constant-values.html = 1734122793322
+G:\Todo 02-2024\SEM II-2024\1 Data Structure II\projects apache\project2\ProyectoGrafos-main\target\reports\apidocs\element-list = 1734122793172
+G:\Todo 02-2024\SEM II-2024\1 Data Structure II\projects apache\project2\ProyectoGrafos-main\target\reports\apidocs\help-doc.html = 1734122793770
+G:\Todo 02-2024\SEM II-2024\1 Data Structure II\projects apache\project2\ProyectoGrafos-main\target\reports\apidocs\index-all.html = 1734122793756
+G:\Todo 02-2024\SEM II-2024\1 Data Structure II\projects apache\project2\ProyectoGrafos-main\target\reports\apidocs\index.html = 1734122793626
+G:\Todo 02-2024\SEM II-2024\1 Data Structure II\projects apache\project2\ProyectoGrafos-main\target\reports\apidocs\member-search-index.js = 1734122793691
+G:\Todo 02-2024\SEM II-2024\1 Data Structure II\projects apache\project2\ProyectoGrafos-main\target\reports\apidocs\module-search-index.js = 1734122793683
+G:\Todo 02-2024\SEM II-2024\1 Data Structure II\projects apache\project2\ProyectoGrafos-main\target\reports\apidocs\overview-summary.html = 1734122793763
+G:\Todo 02-2024\SEM II-2024\1 Data Structure II\projects apache\project2\ProyectoGrafos-main\target\reports\apidocs\overview-tree.html = 1734122793620
+G:\Todo 02-2024\SEM II-2024\1 Data Structure II\projects apache\project2\ProyectoGrafos-main\target\reports\apidocs\package-search-index.js = 1734122793685
+G:\Todo 02-2024\SEM II-2024\1 Data Structure II\projects apache\project2\ProyectoGrafos-main\target\reports\apidocs\search.html = 1734122793759
+G:\Todo 02-2024\SEM II-2024\1 Data Structure II\projects apache\project2\ProyectoGrafos-main\target\reports\apidocs\serialized-form.html = 1734122793362
+G:\Todo 02-2024\SEM II-2024\1 Data Structure II\projects apache\project2\ProyectoGrafos-main\target\reports\apidocs\tag-search-index.js = 1734122793695
+G:\Todo 02-2024\SEM II-2024\1 Data Structure II\projects apache\project2\ProyectoGrafos-main\target\reports\apidocs\type-search-index.js = 1734122793688
